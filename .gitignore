@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.DS_Store
+outouts/*
+outputs
+knowledge/*
+report.md
+script.md
